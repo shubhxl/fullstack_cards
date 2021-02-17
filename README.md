@@ -1,3 +1,3 @@
 # fullstack_cards
 
-Dynamic cards using ReactJS, NodeJS and Google Sheet
+Dynamic cards using ReactJS, NodeJS and Google Sheets
